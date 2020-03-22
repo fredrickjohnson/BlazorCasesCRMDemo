@@ -1,1 +1,1 @@
-# BlazorCaseCRMDemo
+# BlazorCasesCRMDemo
