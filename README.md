@@ -1,1 +1,1 @@
-# BlazorCasesCRMDemo
+# BlazorCasesCRMDemo (POC) - Proof Of Concept
